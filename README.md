@@ -38,16 +38,8 @@ A **hub-and-spoke** topology is implemented where the DC router acts as the core
 
 ## 📂 Repository Contents
 - `CN_Miniproject_TEAM21.pdf` – Full project report with configurations.
-- `network_topology.pkt` – Cisco Packet Tracer file (add here).
-- `images/` – Screenshots of topology and test results.
-
-## 📸 Screenshots
-Below are sample embeds—replace `images/<file>.png` with your own paths:
-
-![Network Topology](images/topology.png)
-![Firewall Configuration](images/firewall.png)
-![Ping Test](images/ping.png)
-
+- `network_topology.pkt` – Cisco Packet Tracer file .
+  
 ## ▶️ How to Use
 1. Clone this repository:
    ```bash
